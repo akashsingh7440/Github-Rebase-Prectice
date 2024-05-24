@@ -8,6 +8,10 @@ namespace Github_Rebase_Prectice
 {
     public class Github
     {
+        void sum()
+        {
+            Console.WriteLine(2 + 1);
+        }
         void print()
         {
             Console.WriteLine("SOFE 1 code ");
