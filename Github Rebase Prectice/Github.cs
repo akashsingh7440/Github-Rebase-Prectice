@@ -8,13 +8,10 @@ namespace Github_Rebase_Prectice
 {
     public class Github
     {
-        void sum()
+        
+        void adarsh()
         {
-            Console.WriteLine(2 + 1);
-        }
-        void sum()
-        {
-            Console.WriteLine(2 + 1);
+            Console.WriteLine("adarsh");
         }
         void print()
         {
