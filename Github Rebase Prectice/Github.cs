@@ -13,5 +13,9 @@ namespace Github_Rebase_Prectice
             Console.WriteLine("SOFE 1 code ");
 
         }
+        void diff()
+        {
+            Console.WriteLine(6-2);
+        }
     }
 }
