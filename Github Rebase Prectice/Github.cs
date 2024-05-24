@@ -12,9 +12,9 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine(2 + 1);
         }
-        void sum()
+        void adarsh()
         {
-            Console.WriteLine(2 + 1);
+            Console.WriteLine("adarsh");
         }
         void print()
         {
