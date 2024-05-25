@@ -16,6 +16,10 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine("ku ree");
         }
+        void secondFunction()
+        {
+            Console.WriteLine("ku ree");
+        }
         public void meraname()
         {
             Console.WriteLine("kun kun cu");
