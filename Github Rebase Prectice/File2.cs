@@ -12,6 +12,10 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine("SOFE 1");
         }
+        void secondFunction()
+        {
+            Console.WriteLine("ku ree");
+        }
         public void meraname()
         {
             Console.WriteLine("kun kun cu");
