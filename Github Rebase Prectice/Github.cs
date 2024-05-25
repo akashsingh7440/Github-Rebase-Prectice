@@ -22,5 +22,9 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine(6-2);
         }
+        void one()
+        {
+            Console.WriteLine("one ");
+        }
     }
 }
