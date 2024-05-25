@@ -8,5 +8,9 @@ namespace Github_Rebase_Prectice
 {
     public class File2
     {
+        void SofeFunction()
+        {
+            Console.WriteLine("SOFE 1");
+        }
     }
 }
