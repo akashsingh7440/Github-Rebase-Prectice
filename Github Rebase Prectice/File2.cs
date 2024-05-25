@@ -12,5 +12,9 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine("SOFE 1");
         }
+        void fucn()
+        {
+            Console.WriteLine("tera mera jaha ");
+        }
     }
 }
