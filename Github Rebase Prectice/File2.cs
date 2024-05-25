@@ -12,6 +12,10 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine("SOFE 1");
         }
+        public void SofeFunction2()
+        {
+            Console.WriteLine("meri marji");
+        }
         void fucn()
         {
             Console.WriteLine("tera mera jaha ");
