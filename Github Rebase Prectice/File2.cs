@@ -16,5 +16,9 @@ namespace Github_Rebase_Prectice
         {
             Console.WriteLine("meri marji");
         }
+        public void meraname()
+        {
+            Console.WriteLine("kun kun cu");
+        }
     }
 }
