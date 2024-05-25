@@ -8,5 +8,9 @@ namespace Github_Rebase_Prectice
 {
     public class File1
     {
+        public void merafunction()
+        {
+            Console.WriteLine("koi hath nhi lagayega ");
+        }
     }
 }
